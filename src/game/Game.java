@@ -1,5 +1,6 @@
 /**
  * Title: Game.java
+ * This class runs the game from main and starts a continuous loop until player quits.
  * @author Bradley Hopkins
  * @version 1.0
  * @since Mar. 4, 2022
